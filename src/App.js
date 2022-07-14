@@ -6,20 +6,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-          <br></br>
-          <br></br>
-          Hi there! Welcome to my react test!
-          <br></br>
-          Bye! This test was successful! Test!
-        </p>
         <div>
           <p>
-            Ein neues Div mit neuen Text!
-            <div>
-              Ein neues Div Element
-            </div>
+            Edit <code>src/App.js</code> and save to reload.
+            <br></br>
+            <br></br>
+            Hi there! Welcome to my react test!
+            <br></br>
+            Bye! This test was successful! Test!
+          </p>
+        </div>
+        <div>
+          <p>
+            Ein neues Div mit neuen Text im Paragraphen!
           </p>
         </div>
         <a
