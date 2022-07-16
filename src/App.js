@@ -9,10 +9,10 @@ function App() {
         <div>
           <p>
             Edit <code>src/App.js</code> and save to reload.
-            <br></br>
-            <br></br>
+            <br/>
+            <br/>
             Hi there! Welcome to my react test!
-            <br></br>
+            <br/>
             Bye! This test was successful! Test!
           </p>
         </div>
